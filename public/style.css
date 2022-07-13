@@ -1,3 +1,28 @@
-p{
-  background-color: red;
+body{
+  background-color: rgb(240, 242, 255);
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  border-radius: 10%;
+  justify-content: center;
+}
+
+.main{
+ background-color: white;
+}
+
+.side{
+  
+  background-color: #181f24;
+  color:white;
+
+}
+
+.side > img{
+  height: 5cm;
+  border-radius: 50%;
+  padding: 20px;
 }
