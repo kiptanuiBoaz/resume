@@ -4,7 +4,7 @@ function Side(){
     return(
         <section className="side">
             <img src="https://avatars.githubusercontent.com/u/84452739?v=4" alt="profile"/>
-            <p>Kiptanui Boaz</p>
+            <h1>Kiptanui Boaz</h1>
             <p>WEB DEVELOPER</p>
         </section>
     )
