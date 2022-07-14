@@ -18,6 +18,8 @@ function Details (){
             <p>
                 <span><MdEmail/></span>&nbsp;boaserem022@gmail.com
             </p>
+
+            <hr/>
         </div>
     )
 }
