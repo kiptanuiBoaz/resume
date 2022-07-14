@@ -22,6 +22,8 @@ function Links(){
             <p> 
                 <span><GrTwitter/></span>&nbsp; <a  rel="noreferrer"  target="_blank" href="https://twitter.com/CleverFreak254?t=SuN-RDa9t8eXnzm-a2kpUw&s=09">Twitter</a>
             </p>
+
+            <hr/>
             
         </div>
     )

@@ -1,7 +1,8 @@
 import React from "react";
 import Details from "./Details";
 import Propic from "./Propic";
-import Links from "./Links"
+import Links from "./Links";
+import Skills  from "./Skills";
 
 function Side(){
     return(
@@ -9,6 +10,7 @@ function Side(){
             <Propic/>
             <Details/>
             <Links/>
+            <Skills/>
         </section>
     )
 }
