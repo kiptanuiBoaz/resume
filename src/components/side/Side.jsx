@@ -1,11 +1,12 @@
 import React from "react";
+import Details from "./Details"
+import Propic from "./Propic"
 
 function Side(){
     return(
         <section className="side">
-            <img src="https://avatars.githubusercontent.com/u/84452739?v=4" alt="profile"/>
-            <h1>Kiptanui Boaz</h1>
-            <p>WEB DEVELOPER</p>
+            <Propic/>
+            <Details/>
         </section>
     )
 }
