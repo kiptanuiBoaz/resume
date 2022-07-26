@@ -1,5 +1,7 @@
 body{
   background-color: rgb(240, 242, 255);
+
+  margin-top: 10px;
 }
 
 .container{
@@ -7,7 +9,8 @@ body{
   flex-wrap: wrap;
   padding: 20px;
   border-radius: 10%;
-  justify-content: center;
+  margin:  0px auto;
+  width: 80%;
 }
 
 

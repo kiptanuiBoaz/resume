@@ -15,7 +15,7 @@ function Links(){
              <span><GrFacebook/></span>&nbsp; <a  rel="noreferrer"  target="_blank" href="https://www.facebook.com/boaz.serem.90"  >Facebook</a>
             </p>
             <p>
-             <span><BsGithub/></span>&nbsp; <a  rel="noreferrer"  target="_blank" href="https://github.com/kiptanuiBoaz" >GitHub</a>
+             <span><BsGithub/></span>&nbsp;  <a  rel="noreferrer"  target="_blank" href="https://github.com/kiptanuiBoaz" >Git Hub</a>
             </p>
             <p>
                 <span><BsLinkedin/></span>&nbsp; <a  rel="noreferrer"  target="_blank" href="https://www.linkedin.com/in/kiptanui-boaz-466154217/" >LinkedIn</a>
