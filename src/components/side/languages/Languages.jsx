@@ -7,10 +7,10 @@ function Languages(){
             <h3>Languages</h3>
 
             <p>English</p>
-            <Progressbar bgcolor="#223b4d" progress="80"  height={8} />
+            <Progressbar  progress="80"  height={8} />
 
             <p>Kiswahili</p>
-            <Progressbar bgcolor="#223b4d" progress='70'  height={8} />
+            <Progressbar  progress='70'  height={8} />
 
             <hr/>
         </div>
