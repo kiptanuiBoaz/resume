@@ -1,8 +1,11 @@
 import React from "react";
-import Details from "./Details";
-import Propic from "./Propic";
-import Links from "./Links";
-import Skills  from "./Skills";
+import Details from "./details/Details";
+import Propic from "./propic/Propic";
+import Links from "./Links/Links";
+import Skills  from "./skills/Skills";
+import Languages from "./languages/Languages";
+import "./Side.css"
+import Hobbies from "./hobbies/Hobbies";
 
 function Side(){
     return(
@@ -11,6 +14,8 @@ function Side(){
             <Details/>
             <Links/>
             <Skills/>
+            <Languages/>
+            <Hobbies/>
         </section>
     )
 }

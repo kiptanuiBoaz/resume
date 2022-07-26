@@ -10,26 +10,9 @@ body{
   justify-content: center;
 }
 
-.main{
- background-color: white;
-}
 
-.side{
-  
-  background-color: #181f24;
-  color:white;
 
-}
 
-.propic > img{
-  height: 5cm;
-  border-radius: 50%;
-  padding: 20px;
-}
 
-.links  a {
-  color:white;
-  text-decoration: none;
-}
 
 

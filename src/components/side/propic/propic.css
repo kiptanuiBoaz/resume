@@ -1,0 +1,10 @@
+.propic{
+  text-align: center;
+}
+
+.propic > img{
+    height: 5cm;
+    border-radius: 50%;
+    padding: 20px;
+  }
+  

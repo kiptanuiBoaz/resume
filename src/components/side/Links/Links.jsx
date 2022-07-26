@@ -1,4 +1,5 @@
 import React from "react";
+import "./links.css"
 import { GrFacebook } from 'react-icons/gr';
 import {BsGithub} from "react-icons/bs";
 import {BsLinkedin} from "react-icons/bs";
