@@ -1,5 +1,17 @@
 
+.links{
+  margin-bottom: 30px;
+}
 .links  a {
-    color:white;
-    text-decoration: none;
-  }
+  color:white;
+  text-decoration: none;
+}
+
+.links>p:hover{
+  color: #2b71cc;
+  text-decoration: underline;
+}
+
+.links a:hover{
+  color:#2b71cc;
+}

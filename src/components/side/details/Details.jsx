@@ -1,4 +1,5 @@
 import React from "react";
+import "./details.css";
 import { ImLocation2} from 'react-icons/im';
 import {IoMdCall} from "react-icons/io"
 import {MdEmail} from "react-icons/md"
@@ -6,7 +7,7 @@ import {MdEmail} from "react-icons/md"
 
 function Details (){
     return(
-        <div>
+        <section className="details">
 
             <h3>Details</h3>
             <p>
@@ -20,7 +21,7 @@ function Details (){
             </p>
 
             <hr/>
-        </div>
+        </section>
     )
 }
 
