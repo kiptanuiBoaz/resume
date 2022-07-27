@@ -1,16 +1,15 @@
 body{
   background-color: rgb(240, 242, 255);
-
   margin-top: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  padding: 20px;
-  border-radius: 10%;
-  margin:  0px auto;
-  width: 80%;
+  padding: 60px 20px;
+  margin:  50px auto auto;
+  width: 70%;
 }
 
 
